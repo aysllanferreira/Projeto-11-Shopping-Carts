@@ -1,0 +1,33 @@
+{
+  "name": "projeto-11-shopping-cart",
+  "version": "1.0.0",
+  "description": "[Link do Projeto](https://aysllanferreira.github.io/Projeto-11-Shopping-Cart/) ![Project Mistery Card](./ShoppingCart.png)",
+  "main": "script.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aysllanferreira/Projeto-11-Shopping-Cart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aysllanferreira/Projeto-11-Shopping-Cart/issues"
+  },
+  "homepage": "https://github.com/aysllanferreira/Projeto-11-Shopping-Cart#readme",
+  "devDependencies": {
+    "eslint": "^8.25.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.6.1",
+    "eslint-plugin-react": "^7.31.10",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "stylelint": "^14.14.0",
+    "stylelint-config-standard": "^29.0.0"
+  }
+}
